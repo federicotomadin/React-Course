@@ -1,0 +1,5 @@
+{
+  "prettier.vueIndentScriptAndStyle": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications"
+}
